@@ -20,6 +20,8 @@
 
   <link href="https://fonts.googleapis.com/css?family=Girassol&display=swap" rel="stylesheet">
 
+  <link href="https://fonts.googleapis.com/css?family=Cinzel|Girassol|Great+Vibes&display=swap" rel="stylesheet">
+
   <!-- // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
   Head Section A.4: Projec CSS files using SASS
   //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- -->
@@ -27,7 +29,7 @@
   <link rel="stylesheet" type="text/css" href="./css/index.css">
 
 
-  <title>Hello, world!</title>
+  <title>GIFtastic</title>
 </head>
 
 
@@ -42,7 +44,35 @@
   <div class='container-fluid'>
     <div class='row'>
       <div class='col-md-12'>
-        <div id='sketch1' class='jumbotron bg-transparent'>
+        <div id='app' class='jumbotron bg-transparent'>
+
+          <div class="container">
+            <h2>My Super Hero GIFtastic!</h2>
+            <h6>*Click on a SuperHero Button to see some interesting GIFs. *Add your own SuperHero Button. *Double-Click
+              a Button to delete a SuperHero Button. Additionally click within the search bar to add a button. </h6>
+
+            <h6> Have Fun! </h6>
+
+            <!-- Buttons  -->
+            <div class="row">
+              <div class="buttons-view"></div>
+            </div>
+
+            <div class="row">
+              <div class="col-lg-9 container-fluid">
+                <!-- Info from API call will be added here -->
+                <div id="hero-view"></div>
+              </div>
+              <!-- Div for the form and submit button-->
+              <div class="col-lg-3">
+                <form id="hero-form">
+                  <label for="hero-input">Add a Super Hero!</label>
+                  <input type="text" class="form-control col-12" id="hero-input"><br>
+                  <input class="btn btn-danger" id="add-hero" type="submit" value="Submit">
+                </form>
+              </div>
+            </div>
+          </div>
 
 
         </div>
@@ -85,6 +115,8 @@
   <script src="./libraries/d3.js"></script>
   <script src="./Animation/sketch.js"></script>
 
+
+
   <script src="./Animation/masterAnimation.js"></script>
 
 
@@ -102,6 +134,12 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
     integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
     crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+
+
+
+  <script src="./src/index.js"></script>
 </body>
 
 </html>

@@ -63,7 +63,9 @@ $c3p3: #596164;
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 // Section 2D: Custom Fonts
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-$GF1: 'Girassol', cursive;
+$GF1: 'Cinzel', serif;
+$GF2: 'Great Vibes', cursive;
+$GF3: 'Girassol', cursive;
 
 
 // ::: === ::: === ::: === ::: === ::: === ::: ===
@@ -82,11 +84,89 @@ background: linear-gradient(135deg, #434343 0%, #000000 100%);
 h1 {
   color: $color3; 
   font-family: $GF1;
+  letter-spacing: 5px;
+  text-align: center;
 
 };
 
+h2 {
+  color: $color3; 
+  font-family: $GF1;
+  letter-spacing: 5px;
+  text-align: center;
+
+};
+
+h3 {
+  color: $color3; 
+  font-family: $GF1;
+  letter-spacing: 5px;
+  text-align: center;
+
+};
 
 h4 {
   color: $color5;
   font-family: $GF1;
+  letter-spacing: 5px;
+  text-align: center;
 };
+
+h5 {
+  color: $color3; 
+  font-family: $GF1;
+  letter-spacing: 5px;
+  text-align: center;
+
+};
+
+h6 {
+  color: $color3; 
+  font-family: $GF1;
+  letter-spacing: 5px;
+  text-align: center;
+
+};
+
+
+.topic {
+  margin: 10px;
+ }
+
+.buttons-view {
+  border-radius: 25px;
+  border: 2px solid brown;
+  padding: 10px;
+}
+
+h2 {
+  letter-spacing: 5px;
+  text-align: center;
+  color:whitesmoke;
+}
+
+h6 {
+  font-style: italic;
+  color: rgb(240, 255, 244);
+}
+
+.topic {
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+.hero-name{
+  margin: 20px;
+  float: left;
+}
+
+p {
+  color:papayawhip;
+  margin-top: 20px;
+  line-height: 16px;
+}
+
+img {
+  border-radius: 20px;
+  margin-top: 2px;
+}
