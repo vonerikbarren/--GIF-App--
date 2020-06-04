@@ -10,6 +10,7 @@
 
 ## Section 3 - Directions
 1. User visits the application.
+2. The User clicks on the super hero they want to view GIFs of.
 
 
 ## Section 4 - Notes 
