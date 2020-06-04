@@ -5,7 +5,7 @@
 
 
 ## Section 2 - Purpose 
-
+- The purpose of this application was to utilize AJAX GET requests and to use them to the best of my ability to get the application up and running using some form of a database but without a backend.
 
 
 ## Section 3 - Directions
