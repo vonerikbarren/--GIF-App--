@@ -9,7 +9,7 @@
 
 
 ## Section 3 - Directions
-1. 
+1. User visits the application.
 
 
 ## Section 4 - Notes 
