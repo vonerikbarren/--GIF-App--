@@ -1,6 +1,6 @@
 # --GIF-App--
 
-## Overview 
+## Section 1 - Overview 
 
 
 ## Purpose 
