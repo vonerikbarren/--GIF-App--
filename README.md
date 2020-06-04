@@ -17,6 +17,7 @@
 
 
 ## Section 4 - Notes 
+- No current notes. 
 
 
 ## Section 5 - Summary 
