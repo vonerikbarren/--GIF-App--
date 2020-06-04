@@ -21,3 +21,4 @@
 
 
 ## Section 5 - Summary 
+- As mentioned in the overview, I really enjoyed this project / application and I hope to use the AJAX feature alot more with other APIs. I realized there are alot of amazing APIs out there that are open sourced. and it would be amazing to build on top of these other APIs! 
