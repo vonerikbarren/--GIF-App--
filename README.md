@@ -1,7 +1,7 @@
 # --GIF-App--
 
 ## Section 1 - Overview 
-- This is an application that I was hesitant on doing at first, but turned out to be very fun to make, I also was more familiar with the bootstrap library. So it was extremely fun to create. 
+- This is an application that I was hesitant on doing at first, but turned out to be very fun to make, I also was more familiar with the bootstrap library. So it was extremely fun to create. The theme that I focused around was Marvel Superheros. I chose these simply because I think they are funny. 
 
 
 ## Section 2 - Purpose 
@@ -9,6 +9,7 @@
 
 
 ## Section 3 - Directions
+1. 
 
 
 ## Section 4 - Notes 
