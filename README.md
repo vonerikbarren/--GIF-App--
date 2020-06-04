@@ -6,7 +6,7 @@
 ## Section 2 - Purpose 
 
 
-## Directions
+## Section 3 - Directions
 
 
 ## Notes 
