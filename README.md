@@ -12,6 +12,7 @@
 1. User visits the application.
 2. The user clicks on the super hero they want to view GIFs of.
 3. The user then searches the GIFs that show up and enjoys the gif, can copy / paste wherever. 
+4. The user can then go back and choose a differently desired GIF that would be used preferably to be viewed. 
 
 
 ## Section 4 - Notes 
